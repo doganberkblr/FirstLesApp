@@ -8,12 +8,20 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    
+    @IBOutlet weak var img: UIImageView!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
 
-
+    
+    @IBAction func btnchange(_ sender: Any) {
+        img.image=UIImage(named: "BesiktasJK-Logo.svg.png")
+    }
+    
+    
 }
 

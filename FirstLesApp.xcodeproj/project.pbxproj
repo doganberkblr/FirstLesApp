@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D64B99C2AA3832E00029724 /* Fenerbahçe_SK.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D64B99B2AA3832E00029724 /* Fenerbahçe_SK.png */; };
+		1D64B99E2AA3834300029724 /* BesiktasJK-Logo.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D64B99D2AA3834300029724 /* BesiktasJK-Logo.svg.png */; };
 		1DD5E9572AA251EE00C4C30E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD5E9562AA251EE00C4C30E /* AppDelegate.swift */; };
 		1DD5E9592AA251EE00C4C30E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD5E9582AA251EE00C4C30E /* SceneDelegate.swift */; };
 		1DD5E95B2AA251EE00C4C30E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD5E95A2AA251EE00C4C30E /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1D64B99B2AA3832E00029724 /* Fenerbahçe_SK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Fenerbahçe_SK.png"; path = "../../../Downloads/Fenerbahçe_SK.png"; sourceTree = "<group>"; };
+		1D64B99D2AA3834300029724 /* BesiktasJK-Logo.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BesiktasJK-Logo.svg.png"; path = "../../../Downloads/BesiktasJK-Logo.svg.png"; sourceTree = "<group>"; };
 		1DD5E9532AA251EE00C4C30E /* FirstLesApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstLesApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DD5E9562AA251EE00C4C30E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1DD5E9582AA251EE00C4C30E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +65,8 @@
 				1DD5E95A2AA251EE00C4C30E /* ViewController.swift */,
 				1DD5E95C2AA251EE00C4C30E /* Main.storyboard */,
 				1DD5E95F2AA251EF00C4C30E /* Assets.xcassets */,
+				1D64B99D2AA3834300029724 /* BesiktasJK-Logo.svg.png */,
+				1D64B99B2AA3832E00029724 /* Fenerbahçe_SK.png */,
 				1DD5E9612AA251EF00C4C30E /* LaunchScreen.storyboard */,
 				1DD5E9642AA251EF00C4C30E /* Info.plist */,
 			);
@@ -125,6 +131,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D64B99C2AA3832E00029724 /* Fenerbahçe_SK.png in Resources */,
+				1D64B99E2AA3834300029724 /* BesiktasJK-Logo.svg.png in Resources */,
 				1DD5E9632AA251EF00C4C30E /* LaunchScreen.storyboard in Resources */,
 				1DD5E9602AA251EF00C4C30E /* Assets.xcassets in Resources */,
 				1DD5E95E2AA251EE00C4C30E /* Main.storyboard in Resources */,
